@@ -7,11 +7,11 @@ How Do I Access My HitmanPro Login Account?
 
 Learn how to access your HitmanPro login account, reset credentials, and manage your subscription with this easy-to-follow guide.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: HitmanPro Login Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/hitmanpro-login-account
+   :target: https://hitmanproaccount.com
   
 When it comes to anti-malware software, HitmanPro is among the best options out there. It has robust cloud-based scanning capabilities, so it can find and eliminate malware such as viruses, spyware, and trojans. Knowing how to access your HitmanPro login account is crucial for managing your membership, licenses, and software updates, regardless if you're a new user or returning after a while.
 
